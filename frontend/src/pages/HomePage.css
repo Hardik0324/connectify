@@ -1,0 +1,37 @@
+.header {
+    width: 100%;
+    background-color: rgb(126, 226, 242);
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 15px 10px;
+}
+
+.header-Text{
+    font-style: Work sans;
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+
+.form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(126, 226, 242);
+    margin-top: 20px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 15px 10px;
+}
+
+.tabs{
+    width: 100%;
+}
+
+.List{
+    margin-bottom: 1em;
+    width: 100%;
+}

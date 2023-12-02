@@ -1,0 +1,10 @@
+.badge{
+    padding: 4px 8px;
+    margin: 4px;
+    margin-bottom: 8px;
+    border-width: 1px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: purple;
+    color: white;
+}

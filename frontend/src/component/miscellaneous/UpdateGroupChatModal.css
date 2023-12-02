@@ -1,0 +1,6 @@
+.modhead{
+    display: flex;
+    font-size: 30px !important;
+    font-family: "Work sans";
+    justify-content: center;
+}

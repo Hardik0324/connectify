@@ -1,0 +1,12 @@
+.modhead{
+    font-size: "40px";
+    font-family: "Work-sans";
+    text-align: center;
+}
+
+.modbody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
